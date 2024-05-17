@@ -1,0 +1,37 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "\"This is react demo poc\"",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html ",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahultiwari365/Namaste_React.git"
+  },
+  "keywords": [],
+  "author": "Rahul Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahultiwari365/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/rahultiwari365/Namaste_React#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
